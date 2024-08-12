@@ -1,6 +1,6 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=workit-dev&label=Profile%20views&color=0e75b6&style=flat" alt="workit-dev" /> </p>
 <h1 align="center">Hello, World! I'm venz</h1>
 <h5 align="center">I am Undefinedvenz aka Venz, an passionate Game developers from Philippines who loves cats and dogs.</h5>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=workit-dev&" alt="workit-dev" /></p>
 
    - 🔭 I’m currently working on new 3 dimensional game project.
    - 🌱 I’m currently learning Golang, C++, Frameworks, and c#. and JS
