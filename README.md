@@ -1,5 +1,5 @@
 <h1 align="center">Hello World!. I'm venz</h1>
-<h3 align="center">Hello World!, I'm undefinedvenz/venz an passionate Game developers from Philippines who loves cats and dogs.</h3>
+<h4 align="center">Hello World!, I'm undefinedvenz/venz an passionate Game developers from Philippines who loves cats and dogs.</h4>
 
 
 - 🔭 I’m currently working on new 3 dimensional game project.
