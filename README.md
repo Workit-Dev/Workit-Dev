@@ -1,8 +1,7 @@
 <h1 align="center">Hello World! I'm undefinedvenz</h1>
-- 🔭 I’m currently working on **new 3 dimensional game project.**
 
+- 🔭 I’m currently working on new 3 dimensional game project.
 - 🌱 I’m currently learning c++, frameworks, and c#.
-
 - ⚡ Fun fact I eat trains
 
 <h3 align="left">Connect with me:</h3>
