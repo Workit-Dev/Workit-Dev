@@ -6,3 +6,5 @@
 - 🗯️ English isn't my first language, so please excuse any mistakes.
 - 🎮 I play Roblox, Growtopia, and Valorant
 - ⚡ Fun fact i eat trains
+
+I work on a Toshiba Laptop running on Windows 10. It's not the most powerful machine, but it gets the job done.
