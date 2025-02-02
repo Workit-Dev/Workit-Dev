@@ -5,7 +5,7 @@
    - 🔭 I’m currently working on new 3 dimensional game project.
    - 🌱 I’m currently learning Golang, C++, Frameworks, and c#. and JS
    - 🗯️ English isn't my first language, so please excuse any mistakes.
-   - 🎮 I play Roblox, Growtopia, and Valorant
+   - 🎮 I play Roblox, Growtopia, and Minecraft
    - ⚡ Fun fact i eat trains
 > [!NOTE]
 > I work on a Toshiba Laptop running on Windows 10. It's not the most powerful machine, but it gets the job done.
